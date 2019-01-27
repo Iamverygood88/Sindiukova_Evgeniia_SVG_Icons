@@ -1,0 +1,1 @@
+# Sindiukova_Evgeniia_SVG_Icons
