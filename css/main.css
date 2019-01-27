@@ -1,0 +1,291 @@
+@charset "UTF-8"; 
+/*CSS Document*/
+
+div body header div p  {
+	margin: 0;
+	padding: 0;
+}
+.hidden
+{
+	display: none;
+}
+
+#circle:hover {
+	fill: #ad5389;
+}
+
+#siteContainer
+{
+	margin: 0 auto; 
+	width: 920px;
+	height: 980px;  
+	padding-left: 20px;
+	padding-right: 20px; 
+	background-color: white;
+}
+
+#mainHeader {
+	height: 100px; 
+	background-color: #ffdde1;
+	padding-top: 15px; 
+
+}
+#title {
+	text-align: center;
+	font-family: 'Josefin Slab', serif; 
+	font-size: 47px; 
+	margin-top: 20px; 
+} 
+
+#mainText{
+	text-align: center;
+	font-family: 'Josefin Slab', serif; 
+	font-size: 27px;  
+
+}
+#icons {
+    display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+}
+#iconHeart {
+	width: 166px; 
+	height: 166px;
+	padding-top: 25px; 
+	/*border: 5px dotted; 
+	border-color: #ffdde1;*/ 
+	margin-top: 45px;
+	padding-top:0px; 
+	margin-left: 60.5px;
+}
+.heartText {
+	font-family: 'Josefin Slab', serif;
+	text-align: left; 
+	width: 166px;
+	height: 166px;
+	text-align: center;  
+
+}
+
+.heartName {
+	font-family: 'Josefin Slab', serif; 
+	text-align: center;  
+}
+#iconBallon {
+	width: 166px; 
+	height: 166px;
+	padding-top: 25px; 
+	/*border: 5px dotted; 
+	border-color: #ffdde1;*/ 
+	margin-top: 45px;
+	padding-top:0px;
+	margin-left:45px; 
+}
+
+.ballonName {
+	font-family: 'Josefin Slab', serif; 
+	text-align: center;
+}
+.ballonText {
+    font-family: 'Josefin Slab', serif;
+	text-align: left; 
+	width: 166px;
+	height: 166px;
+	text-align: center; 
+}
+#bottleWine {
+
+	width: 166px; 
+	height: 166px;
+	padding-top: 25px; 
+	/*border: 5px dotted; 
+	border-color: #ffdde1;*/ 
+	margin-top: 45px;
+	padding-top:0px;
+	margin-left:45px;
+
+}
+.wineName {
+	font-family: 'Josefin Slab', serif; 
+	text-align: center;
+
+}
+.wineText {
+	font-family: 'Josefin Slab', serif;
+	text-align: left; 
+	width: 166px;
+	height: 166px;
+	text-align: center;
+}
+
+
+#calendar {
+	width: 166px; 
+	height: 166px;
+	padding-top: 0px;  
+	margin-top: 50px; 
+	padding-top:0px;
+	margin-left:45px;
+
+
+}
+.calendarName {
+	font-family: 'Josefin Slab', serif; 
+	text-align: center;
+	
+}
+.calendarText {
+	font-family: 'Josefin Slab', serif;
+	text-align: left; 
+	width: 166px;
+	height: 166px;
+	text-align: center;
+	
+}
+
+#icons2 {
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+	margin-top: 150px;
+}
+#candy {
+
+	width: 166px; 
+	height: 166px;
+	padding-top: 0px;  
+	margin-top: 25px; 
+	padding-top:0px;
+	margin-right:0px;
+	margin-left: 60.5px;
+
+}
+.candyName {
+	font-family: 'Josefin Slab', serif; 
+	text-align: center;
+	
+
+}
+.candyText {
+	font-family: 'Josefin Slab', serif;
+	text-align: left; 
+	width: 166px;
+	height: 166px;
+	text-align: center;
+	
+}
+#cloud {
+	width: 166px; 
+	height: 166px; 
+	margin-top: 25px;
+	padding-top:0px;
+	margin-left:45px;
+}
+.cloudName {
+	font-family: 'Josefin Slab', serif; 
+	text-align: center;
+}
+.cloudText {
+	font-family: 'Josefin Slab', serif;
+	text-align: left; 
+	width: 166px;
+	height: 166px;
+	text-align: center;
+}
+#flower {
+	width: 166px; 
+	height: 166px;
+	padding-top: 25px; 
+	/*border: 5px dotted; 
+	border-color: #ffdde1;*/ 
+	margin-top: 25px;
+	padding-top:0px;
+	margin-left:45px;
+
+}
+.flowerName {
+	font-family: 'Josefin Slab', serif; 
+	text-align: center;
+	
+}
+.flowerText {
+	font-family: 'Josefin Slab', serif;
+	text-align: left; 
+	width: 166px;
+	height: 166px;
+	text-align: center;
+	
+}
+#gift {
+	width: 166px; 
+	height: 166px;
+	padding-top: 0px;  
+	margin-top: 25px; 
+	padding-top:0px;
+	margin-left:45px;
+	
+}
+.giftName {
+	font-family: 'Josefin Slab', serif; 
+	text-align: center;
+	
+}
+.giftText {
+	font-family: 'Josefin Slab', serif;
+	text-align: left; 
+	width: 166px;
+	height: 166px;
+	text-align: center;
+	
+}
+#icon3 {
+
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items:center;
+	margin-top: 150px;
+}
+#kiss {
+	width: 166px; 
+	height: 166px;
+	padding-top: 25px; 
+	/*border: 5px dotted; 
+	border-color: #ffdde1;*/ 
+	margin-top: 45px;
+	padding-top:0px;
+	/*margin-left:45px;*/
+}
+.kissName {
+	font-family: 'Josefin Slab', serif; 
+	text-align: center;
+}
+.kissText {
+	font-family: 'Josefin Slab', serif;
+	text-align: left; 
+	width: 166px;
+	height: 166px;
+	text-align: center;
+}
+#letter {
+	width: 166px; 
+	height: 166px;
+	padding-top: 25px; 
+	/*border: 5px dotted; 
+	border-color: #ffdde1;*/ 
+	margin-top: 45px;
+	padding-top:0px;
+	margin-left:45px;
+
+}
+.letterName {
+	font-family: 'Josefin Slab', serif; 
+	text-align: center;
+}
+.letterText {
+	font-family: 'Josefin Slab', serif;
+	text-align: left; 
+	width: 166px;
+	height: 166px;
+	text-align: center;
+}
