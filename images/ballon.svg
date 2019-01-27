@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="ballon_4_" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 192.8 192.8" style="enable-background:new 0 0 192.8 192.8;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FEF7E4;stroke:#000000;stroke-width:0.75;stroke-miterlimit:10;}
+	.st1{fill:#FFDDE1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:10;}
+	.st2{fill:#FCDCE1;stroke:#000000;stroke-width:0.25;stroke-miterlimit:10;}
+	.st3{fill:none;stroke:#000000;stroke-width:0.25;stroke-miterlimit:10;}
+	.st4{fill:#FFDDE1;stroke:#000000;stroke-width:0.25;stroke-miterlimit:10;}
+	.st5{fill:#FF416C;}
+</style>
+<circle id="circle" class="st0" cx="96.4" cy="96.4" r="96"/>
+<g id="ballon_1_">
+	<g>
+		<path d="M95.3,93.4c3,7.5,7.8,15.9,8.4,24.1c0.7,8.9-6.2,12.9-9.8,19.9c-6.3,12.5,6.9,24,9.1,35.7c0.2,0.9,1.6,0.5,1.4-0.4
+			c-1.2-6.6-5-11.9-7.8-17.8c-2.2-4.5-3.9-9.9-2.2-14.9c1.3-3.8,4.2-6.6,6.6-9.7c9-11.7,0.5-25.4-4.3-37.2
+			C96.3,92.1,94.9,92.5,95.3,93.4L95.3,93.4z"/>
+	</g>
+</g>
+<polygon id="ballon_3_" class="st1" points="88.3,96.5 104.5,96.5 96.4,85.7 "/>
+<circle id="ballon_2_" class="st1" cx="96.4" cy="59.4" r="33"/>
+<g id="bow">
+	<path id="bow_x5F_left_1_" class="st2" d="M65.6,142.3c-5.1,2.8-0.4,4.5,0.2,8.8s-3.2,9.7,1.9,6.9s28.6-19.6,28-23.9
+		C95.1,129.7,70.7,139.5,65.6,142.3z"/>
+	<path id="bow_x5F_left_2_" class="st2" d="M97.1,134.5c-2.6,3.5,10.3,29.3,13.5,34.2s2.3-1.7,4.9-5.2c2.5-3.5,7.5-2.8,4.3-7.7
+		C116.6,150.9,99.6,130.9,97.1,134.5z"/>
+	<path id="bow_x5F_right" class="st2" d="M118.7,127c3.8-0.1,0.8,3.5,0.9,7.3s3.3,6.4-0.5,6.5s-22-2.5-22-6.3
+		C96.9,130.7,114.8,127.1,118.7,127z"/>
+	<path id="bow_x5F_left" class="st2" d="M88.2,113.1c-2.4-3-3.2,1.7-6.1,4.1s-7,1.7-4.6,4.6c2.4,3,16.3,15,19.2,12.5
+		C99.7,132,90.7,116.1,88.2,113.1z"/>
+	<path id="shadow" class="st3" d="M103,135c0,0,4.4,0.7,7-0.4"/>
+	<circle id="bow_x5F_circle" class="st4" cx="97.7" cy="133.9" r="5.4"/>
+</g>
+<g id="heart_x5F_body_1_">
+	<g id="left_x5F_part_x5F_heart_2_">
+		<path id="left_x5F_top_x5F_part_1_" class="st5" d="M96.7,53.5c0,5.6-5,10-10.9,10c-5.9,0-10.9-4.5-10.9-10.2s5-10,10.9-10
+			c1.8,0,3.4,0.5,5,1.3C94.4,46.3,96.7,49.6,96.7,53.5z"/>
+		<path id="left_x5F_botton_x5F_part_1_" class="st5" d="M96.7,53.5l-0.2,26.3c0,0-28.1-18.3-21-30.8L96.7,53.5z"/>
+		<path id="right_x5F_top_1_" class="st5" d="M96.6,53.5c0,5.6,4.8,10,10.9,10.2c6.1,0,10.9-4.5,10.9-10s-4.8-10-10.9-10
+			C101.6,43.5,96.6,47.8,96.6,53.5z"/>
+		<path id="right_x5F_bottom_1_" class="st5" d="M96.6,53.5l-0.2,26.3c0,0,28.1-18.1,21.1-30.6L96.6,53.5z"/>
+	</g>
+</g>
+</svg>

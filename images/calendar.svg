@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="calendar" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 192.9 192.9" style="enable-background:new 0 0 192.9 192.9;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#circle_1_);stroke:#020202;stroke-width:0.75;stroke-miterlimit:10;}
+	.st1{fill:url(#bottom_x5F_calendar_1_);stroke:#000000;stroke-width:0.5;stroke-miterlimit:10;}
+	.st2{fill:#FCDCE1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:10;}
+	.st3{fill:none;stroke:#000000;stroke-width:0.5;stroke-miterlimit:10;}
+	.st4{fill:url(#left_x5F_top_x5F_part_1_);}
+	.st5{fill:url(#left_x5F_botton_x5F_part_1_);}
+	.st6{fill:url(#right_x5F_top_1_);}
+	.st7{fill:url(#right_x5F_bottom_1_);}
+	.st8{font-family:'Apple-Chancery';}
+	.st9{font-size:19px;}
+	.st10{fill:url(#onr_1_);}
+	.st11{fill:url(#one_2_);}
+	.st12{fill:url(#four_4_);}
+	.st13{fill:url(#four_5_);}
+	.st14{fill:url(#four_6_);}
+</style>
+<linearGradient id="circle_1_" gradientUnits="userSpaceOnUse" x1="0.4" y1="1515.53" x2="192.6" y2="1515.53" gradientTransform="matrix(1 0 0 1 0 -1419.03)">
+	<stop  offset="0" style="stop-color:#17988F"/>
+	<stop  offset="0" style="stop-color:#FCF4E7"/>
+</linearGradient>
+<circle id="circle" class="st0" cx="96.5" cy="96.5" r="96.1"/>
+<linearGradient id="bottom_x5F_calendar_1_" gradientUnits="userSpaceOnUse" x1="45" y1="751.8" x2="145.3" y2="751.8" gradientTransform="matrix(1 0 0 1 0 -648)">
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<polygon id="bottom_x5F_calendar" class="st1" points="145.3,150.4 45,150.4 45,66.8 45,57.2 145.3,57.2 "/>
+<polygon id="top_x5F_calendar" class="st2" points="145.3,68.5 45,68.5 45,58.4 45,57.2 145.3,57.2 "/>
+<line id="calendar_2_" class="st3" x1="95.2" y1="36.3" x2="145.3" y2="56.8"/>
+<line id="calendar_1_" class="st3" x1="95.2" y1="36.3" x2="45" y2="57.2"/>
+<g id="heart_x5F_body">
+	<g id="left_x5F_part_x5F_heart_1_">
+		
+			<linearGradient id="left_x5F_top_x5F_part_1_" gradientUnits="userSpaceOnUse" x1="86.9579" y1="1452.0801" x2="95.1713" y2="1452.0801" gradientTransform="matrix(1 0 0 1 0 -1419.03)">
+			<stop  offset="0" style="stop-color:#EF476F"/>
+			<stop  offset="1" style="stop-color:#F05234"/>
+		</linearGradient>
+		<path id="left_x5F_top_x5F_part" class="st4" d="M95.2,33.1c0,2.2-1.9,4-4.1,4S87,35.3,87,33s1.9-4,4.1-4c0.7,0,1.3,0.2,1.9,0.5
+			C94.3,30.2,95.2,31.5,95.2,33.1z"/>
+		
+			<linearGradient id="left_x5F_botton_x5F_part_1_" gradientUnits="userSpaceOnUse" x1="86.9215" y1="1456.4801" x2="95.1739" y2="1456.4801" gradientTransform="matrix(1 0 0 1 0 -1419.03)">
+			<stop  offset="0" style="stop-color:#EF476F"/>
+			<stop  offset="1" style="stop-color:#F05234"/>
+		</linearGradient>
+		<path id="left_x5F_botton_x5F_part" class="st5" d="M95.2,33.1l-0.1,10.5c0,0-10.5-7.3-7.8-12.3L95.2,33.1z"/>
+	</g>
+	<g id="left_x5F_part_x5F_heart">
+		
+			<linearGradient id="right_x5F_top_1_" gradientUnits="userSpaceOnUse" x1="95.1299" y1="1452.228" x2="103.3541" y2="1452.228" gradientTransform="matrix(1 0 0 1 0 -1419.03)">
+			<stop  offset="0" style="stop-color:#EF476F"/>
+			<stop  offset="1" style="stop-color:#F05234"/>
+		</linearGradient>
+		<path id="right_x5F_top" class="st6" d="M95.1,33.1c0,2.2,1.8,4,4.1,4.1c2.3,0,4.1-1.8,4.1-4s-1.8-4-4.1-4
+			C97,29.1,95.1,30.8,95.1,33.1z"/>
+		
+			<linearGradient id="right_x5F_bottom_1_" gradientUnits="userSpaceOnUse" x1="95.0912" y1="1456.53" x2="103.3839" y2="1456.53" gradientTransform="matrix(1 0 0 1 0 -1419.03)">
+			<stop  offset="0" style="stop-color:#EF476F"/>
+			<stop  offset="1" style="stop-color:#F05234"/>
+		</linearGradient>
+		<path id="right_x5F_bottom" class="st7" d="M95.1,33.1L95,43.6c0,0,10.5-7.2,7.9-12.2L95.1,33.1z"/>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 46.65 92.1444)" class="st8 st9">Valentine’s</text>
+<text transform="matrix(1 0 0 1 48.2001 110.6003)" class="st8 st9">Day</text>
+<g id="number">
+	<g id="one">
+		
+			<linearGradient id="onr_1_" gradientUnits="userSpaceOnUse" x1="102.5" y1="772.8" x2="109.1615" y2="772.8" gradientTransform="matrix(1 0 0 1 0 -648)">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="0" style="stop-color:#EF446D"/>
+			<stop  offset="1" style="stop-color:#F04F34"/>
+		</linearGradient>
+		<path id="onr" class="st10" d="M106,144.1h-0.4c-1.7,0-3.1-1.4-3.1-3.1v-32.4c0-1.7,1.4-3.1,3.1-3.1h0.4c1.7,0,3.1,1.4,3.1,3.1
+			V141C109.2,142.7,107.8,144.1,106,144.1z"/>
+		
+			<linearGradient id="one_2_" gradientUnits="userSpaceOnUse" x1="95.072" y1="760.8726" x2="107.4552" y2="760.8726" gradientTransform="matrix(1 0 0 1 0 -648)">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="0" style="stop-color:#EF446D"/>
+			<stop  offset="1" style="stop-color:#F04F34"/>
+		</linearGradient>
+		<path id="one_1_" class="st11" d="M97.7,119.1l-1.9-1.6c-0.8-0.7-1-1.9-0.3-2.8l6.1-7.4c1.1-1.3,3.1-1.5,4.4-0.4l0.3,0.3
+			c1.3,1.1,1.5,3.1,0.4,4.4l-5.9,7.2C100,119.7,98.6,119.8,97.7,119.1z"/>
+	</g>
+	<g id="four">
+		
+			<linearGradient id="four_4_" gradientUnits="userSpaceOnUse" x1="111.3395" y1="764.7499" x2="118.001" y2="764.7499" gradientTransform="matrix(1 0 0 1 0 -648)">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="0" style="stop-color:#EF446D"/>
+			<stop  offset="1" style="stop-color:#F04F34"/>
+		</linearGradient>
+		<path id="four_3_" class="st12" d="M115,128h-0.7c-1.6,0-3-1.3-3-3v-16.5c0-1.6,1.3-3,3-3h0.7c1.6,0,3,1.3,3,3V125
+			C118,126.6,116.7,128,115,128z"/>
+		
+			<linearGradient id="four_5_" gradientUnits="userSpaceOnUse" x1="127.9414" y1="772.8" x2="134.6029" y2="772.8" gradientTransform="matrix(1 0 0 1 0 -648)">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="0" style="stop-color:#EF446D"/>
+			<stop  offset="1" style="stop-color:#F04F34"/>
+		</linearGradient>
+		<path id="four_2_" class="st13" d="M131.6,144.1h-0.7c-1.6,0-3-1.3-3-3v-32.6c0-1.6,1.3-3,3-3h0.7c1.6,0,3,1.3,3,3v32.6
+			C134.6,142.8,133.3,144.1,131.6,144.1z"/>
+		
+			<linearGradient id="four_6_" gradientUnits="userSpaceOnUse" x1="112" y1="772.65" x2="134.6" y2="772.65" gradientTransform="matrix(1 0 0 1 0 -648)">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="0" style="stop-color:#EF446D"/>
+			<stop  offset="1" style="stop-color:#F04F34"/>
+		</linearGradient>
+		<path id="four_1_" class="st14" d="M112,125v-0.7c0-1.6,1.3-3,3-3h16.6c1.6,0,3,1.3,3,3v0.7c0,1.6-1.3,3-3,3H115
+			C113.4,128,112,126.6,112,125z"/>
+	</g>
+</g>
+</svg>

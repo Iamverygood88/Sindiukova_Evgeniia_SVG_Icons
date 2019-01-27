@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="gift" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 192.9 192.6" style="enable-background:new 0 0 192.9 192.6;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#circle_1_);stroke:#000000;stroke-width:0.75;stroke-miterlimit:10;}
+	.st1{fill:url(#package_2_);stroke:#000000;stroke-width:0.25;stroke-miterlimit:10;}
+	.st2{fill:url(#package_3_);stroke:#000000;stroke-width:0.25;stroke-miterlimit:10;}
+	.st3{fill:#FCDCE1;stroke:#000000;stroke-width:0.25;stroke-miterlimit:10;}
+	.st4{fill:none;stroke:#000000;stroke-width:0.25;stroke-miterlimit:10;}
+</style>
+<linearGradient id="circle_1_" gradientUnits="userSpaceOnUse" x1="0.4" y1="95.79" x2="192.6" y2="95.79" gradientTransform="matrix(1 0 0 -1 0 191.89)">
+	<stop  offset="0" style="stop-color:#11988D"/>
+	<stop  offset="0" style="stop-color:#FCF4E5"/>
+</linearGradient>
+<circle id="circle" class="st0" cx="96.5" cy="96.1" r="96.1"/>
+<linearGradient id="package_2_" gradientUnits="userSpaceOnUse" x1="96.5471" y1="39.3522" x2="97.718" y2="113.7634" gradientTransform="matrix(1 0 0 -1 0 191.89)">
+	<stop  offset="0" style="stop-color:#FF416C"/>
+	<stop  offset="0.9975" style="stop-color:#FF4B2B"/>
+</linearGradient>
+<rect id="package_1_" x="59.9" y="80.2" class="st1" width="74.4" height="74.4"/>
+<linearGradient id="package_3_" gradientUnits="userSpaceOnUse" x1="96.9239" y1="95.1997" x2="97.2961" y2="118.8509" gradientTransform="matrix(1 0 0 -1 0 191.89)">
+	<stop  offset="0" style="stop-color:#FF416C"/>
+	<stop  offset="0.9975" style="stop-color:#FF4B2B"/>
+</linearGradient>
+<rect id="package" x="52.9" y="74.2" class="st2" width="88.4" height="22.6"/>
+<rect id="bow_3_" x="59.9" y="111.9" class="st3" width="74.4" height="11"/>
+<rect id="bow_2_" x="91.6" y="74.2" class="st3" width="11" height="80.4"/>
+<g id="bow">
+	<g id="bow_1_">
+		<path id="bow_x5F_right" class="st3" d="M136.8,35.3c8.2-4,5.2,6.8,9.1,14.9c4,8.1,13.5,10.5,5.3,14.5S101.4,81,97.5,72.8
+			S128.5,39.3,136.8,35.3z"/>
+		<path id="bow_x5F_left" class="st3" d="M57.5,35.3c-8.2-4-5.2,6.8-9.1,14.9s-13.5,10.5-5.3,14.5S92.9,81,96.8,72.8
+			C100.8,64.7,65.7,39.3,57.5,35.3z"/>
+		<circle id="bow_x5F_circle" class="st3" cx="98.5" cy="70.9" r="12.8"/>
+	</g>
+	<path id="shadow_1_" class="st4" d="M86.3,67.1c0,0-15.8-3.3-18.4-6.8"/>
+	<path id="shadow" class="st4" d="M111,68.1c0,0,10.1-2.8,14.8-7.8"/>
+</g>
+</svg>
